@@ -1,1 +1,2 @@
 Useless file
+Adding a line here should create a conflict
