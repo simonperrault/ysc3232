@@ -1,2 +1,6 @@
 Useless file
+<<<<<<< HEAD
 One more line
+=======
+Adding a line here should create a conflict
+>>>>>>> d09e5df5473d3976b43f794de3277384a5dcafc8
