@@ -33,4 +33,8 @@ public class Triangle {
 	}
 	
 
+	public Point getSecondPoint()
+	{
+		return this.points[1];
+	}
 }
