@@ -14,5 +14,10 @@ public class Triangle {
 		this.points[2] = new Point(x3, y3);
 	}
 	
+	public Point getFirstPoint()
+	{
+		return this.points[0];
+	}
+	
 
 }
